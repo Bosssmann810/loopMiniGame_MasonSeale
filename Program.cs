@@ -33,6 +33,8 @@ namespace loopMiniGame_MasonSeale
 
 
             }
+            Console.ReadKey();
+
         }
         static void move()
         {
