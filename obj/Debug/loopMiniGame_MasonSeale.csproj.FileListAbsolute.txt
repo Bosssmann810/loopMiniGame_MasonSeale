@@ -1,0 +1,8 @@
+C:\mason unity\loopMiniGame_MasonSeale\loopMiniGame_MasonSeale\obj\Debug\loopMiniGame_MasonSeale.csproj.AssemblyReference.cache
+C:\mason unity\loopMiniGame_MasonSeale\loopMiniGame_MasonSeale\obj\Debug\loopMiniGame_MasonSeale.csproj.CoreCompileInputs.cache
+C:\mason unity\loopMiniGame_MasonSeale\loopMiniGame_MasonSeale\bin\Debug\loopMiniGame_MasonSeale.exe.config
+C:\mason unity\loopMiniGame_MasonSeale\loopMiniGame_MasonSeale\bin\Debug\loopMiniGame_MasonSeale.exe
+C:\mason unity\loopMiniGame_MasonSeale\loopMiniGame_MasonSeale\bin\Debug\loopMiniGame_MasonSeale.pdb
+C:\mason unity\loopMiniGame_MasonSeale\loopMiniGame_MasonSeale\obj\Debug\loopMiniGame_MasonSeale.exe
+C:\mason unity\loopMiniGame_MasonSeale\loopMiniGame_MasonSeale\obj\Debug\loopMiniGame_MasonSeale.pdb
+C:\mason unity\loopMiniGame_MasonSeale\loopMiniGame_MasonSeale\obj\Debug\loopMiniGame_MasonSeale.exe.config
